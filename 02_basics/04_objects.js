@@ -42,3 +42,14 @@ const users = [
 
 console.log(Object.keys(tinderUser));
 console.log(Object.values(tinderUser));
+
+// Destructuring
+const course = {
+    courseName: "js in hindi",
+    price: "999",
+    courseInstructor: "Hitesh"
+}
+
+//const {courseInstructor} = course
+const {courseInstructor: instructor} = course
+console.log(instructor);

@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project1</title>
+</head>
+<style>
+ div.button {width: 15%;float: left;padding: 20;text-align: center;border: 2px solid #000000;margin: 40px;} 
+ div#red {background-color: red;}
+ div#blue {background-color: blue;}
+ div#green {background-color: green;}
+ div#yellow {background-color: yellow;}  
+</style>
+<body>
+    <div class="section">
+        <div class="button" id="red">Red</div>
+        <div class="button" id="blue">Blue</div>
+        <div class="button" id="green">Green</div>
+        <div class="button" id="yellow">Yellow</div>
+    </div>    
+</body>
+<script>
+    let buttons = document.querySelectorAll(".button")
+    let body = document.querySelector("body")
+    buttons.forEach(button => {
+        button.addEventListener("click", function(e) {
+            if(e.target.id === "red"){
+                body.style.backgroundColor = e.target.id
+            }
+            if(e.target.id === "blue"){
+                body.style.backgroundColor = e.target.id
+            }
+            if(e.target.id === "green"){
+                body.style.backgroundColor = e.target.id
+            }
+            if(e.target.id === "yellow"){
+                body.style.backgroundColor = e.target.id
+            }
+        })
+        
+    });
+</script>
+</html>

@@ -14,7 +14,11 @@ const commentSchema = new Schema({
         type: Schema.Types.ObjectId,
         ref: "User"
     }
-}, {timestamps:true}
+}, {
+    timestamps: true
+}
 )
 
-export const Comment = mongoose.model('comment', commentSchema)
+commentSchema.plugin(mongooseAggregatePaginate)
+
+export const Comment = mongoose.model('Comment', commentSchema)

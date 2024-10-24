@@ -20,7 +20,7 @@ Each project helped me improve my understanding of JavaScript concepts such as D
 
 ## 📚 Learning Source
 
-I followed the **[Chai aur Code YouTube channel (Hitesh Choudhary)](https://www.youtube.com/@chaiaurcode)** to learn and build these projects. The tutorials provided a structured and easy-to-understand approach to JavaScript, and I highly recommend them for anyone looking to start or advance their JavaScript journey.
+I followed the **[Chai aur Javascipt Series by (Hitesh Choudhary)](https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&si=kEsHsrX4Oj8IGKAb)** to learn and build these projects. The tutorials provided a structured and easy-to-understand approach to JavaScript, and I highly recommend them for anyone looking to start or advance their JavaScript journey.
 
 ## Why This Repository?
 

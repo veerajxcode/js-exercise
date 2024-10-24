@@ -14,6 +14,7 @@ This repository showcases my journey of learning **JavaScript** from the basics 
 - **Digital Clock**: A real-time clock that displays the current time in a digital format.
 - **Guess the Number**: A game where users guess a random number, and the app provides feedback on how close their guess is.
 - **Keyboard Check**: A tool to detect and display the key pressed by the user.
+  and more like **Scroll like NextJS**, **Your typer library**, **Mouse Circle** etc.
 
 Each project helped me improve my understanding of JavaScript concepts such as DOM manipulation, event handling, functions, loops, and more.
 

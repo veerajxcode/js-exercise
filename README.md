@@ -2,7 +2,7 @@
 
 Welcome to my **JS Exercise** repository! 🚀
 
-**NOTE:** I have past experience in working with **JavaScript** but that was limited, based on requirement. I wanted to learn **JavaScript** properly so that I can implement it in **WordPress** plugins and themes. And now you can also go through **[Choose Your Best Selling Products](https://github.com/veerajxcode/chooseyourbestsellingproducts)** plugin and **[NintyNine](https://github.com/veerajxcode/ninty-nine)** theme.
+**NOTE:** I have past experience in working with **JavaScript** but that was limited, based on requirement. I wanted to learn **JavaScript** properly so that I can implement it in **WordPress** plugins and themes. And now you can also go through **[Choose Your Best Selling Products](https://github.com/veerajxcode/chooseyourbestsellingproducts)** plugin and **[NintyNine](https://github.com/veerajxcode/nintynine)** theme.
 
 This repository showcases my journey of learning **JavaScript** from the basics to more advanced concepts. Along the way, I’ve worked on small projects to solidify my understanding and apply what I’ve learned. It’s a reflection of my commitment to honing my JavaScript skills, and you’ll find practical examples of fundamental to intermediate-level projects here.
 
